@@ -10,8 +10,7 @@ This extension is in the "WIP" stage. To test it out follow the Instructions in 
 
 #### How to install:
 
-Open the "Installing Folders" folder structure.
-
+Open the "Installing Folders" folder structure. \n
 Copy the Extension (dll-file) and the presets (xml-files) to their respective Folders on your PC.
 
 

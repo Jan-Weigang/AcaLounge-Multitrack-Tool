@@ -8,22 +8,24 @@ This extension is in the "WIP" stage. To test it out follow the Instructions in 
 
 ### Instructions (temporary)
 
-- - - - - How to install: - - - - - 
+#### How to install:
 
 Open the "Installing Folders" folder structure.
+
 Copy the Extension (dll-file) and the presets (xml-files) to their respective Folders on your PC.
 
 
-- - - - - How to open: - - - - - 
+#### How to open: 
 
 Open MAGIX VEGAS Pro and choose "View" / "Extensions" / "AcaLounge Multitrack Tool".
 
 
 
-- - - - - How it works - - - - - 
+#### How it works
 
- - - - Track Creator: - - - 
+##### Track Creator:
 Set your parameters (columns, rows, border) and press "Create Tracks" to add a Trackgroup to your project.
+
 All Trackgroups will have a naming scheme applied and a "VEGAS Solid Color" plugin added to preview the grid.
 
 You can create "doubles" and "triples". 
@@ -38,7 +40,7 @@ Pick a mode that fits your grid, as some Novelty grids use "in-between" position
 You can create "Novelty Patterns" that use "Bezier Masking" plugins to create special layouts.
 Be mindful that this can come at a performance cost, especially for large grids.
 
- - - - Track Assigner: - - -
+##### Track Assigner: 
 
 Select the Videoclips that you would like to copy to a Layout.
 Usually, one would have all synced videos in a seperate Trackgroup for this purpose.
@@ -59,7 +61,7 @@ When satisfied press "Clean up" to remove and such temporary tracks in the proje
 This process can be done with multiple sources at the same time.
 
 
-- - - - - THINGS THAT DONT WORK YET - - - - -
+#### THINGS THAT DONT WORK YET
 The "rounded corners" feature needs the plugin "Soft Contrast" to be added. 
 This plugin is no "OFX" plugin and thus the presets are not easily found on a hard drive. 
 
@@ -71,21 +73,37 @@ In the tab "Effect" set all values to 0.
 In the Tab "Vignette" set the following:
 
 Exterior effect: "Transparent"
+
 Strength: "100"
+
 Vignette Shape: "Rectangle"
+
 ----
+
 Softness: "0"
+
 Width: "100"
+
 Height: "100"
+
 Corner radius: "15"
+
 X position "50"
+
 Y position "50"
 
 
+
+
 Type "AMT_roundedEdgesSmall" into the Preset field and press save.
+
 Change Corner radius to "30"
+
 Type "AMT_roundedEdgesMedium" into the Preset field and press save.
+
 Change Corner radius to "60"
+
 Type "AMT_roundedEdgesLarge" into the Preset field and press save.
+
 
 Done.

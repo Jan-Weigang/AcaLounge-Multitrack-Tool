@@ -6,7 +6,7 @@ This extension is in the "WIP" stage. To test it out follow the Instructions in 
 
 
 
-### Instructions (temporary)
+## Instructions (temporary)
 
 #### How to install:
 

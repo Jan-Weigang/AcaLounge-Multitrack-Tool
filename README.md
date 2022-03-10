@@ -1,7 +1,7 @@
 # AcaLounge-Multitrack-Tool
 A MAGIX Vegas Extension able to create and modify "video walls" made for multitrack music videos
 
-[![Alt text](https://img.youtube.com/vi/oldKSnR5QE/0.jpg)](https://www.youtube.com/watch?v=_oldKSnR5QE)
+[![Youtube Video](https://img.youtube.com/vi/_oldKSnR5QE/0.jpg)](https://www.youtube.com/watch?v=_oldKSnR5QE)
 
 ## Status
 This extension is in the "WIP" stage. To test it out follow the Instructions in the beta release
